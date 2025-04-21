@@ -38,5 +38,6 @@ Se utiliza el dataset **Fashion-MNIST**, que viene integrado en Keras, por lo qu
 - Clasificación con SVM y reporte de precisión.
 
 ---
+Por Luis Manuel Zamudio Domínguez.
 
 > Este proyecto fue desarrollado como parte del Diplomado de Ciencia de Datos - Primavera 2025.
